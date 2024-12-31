@@ -8,11 +8,17 @@ The **Goal App** is a simple mobile application that helps users to **add** and 
 - Add new goals to your list.
 - Delete goals that are no longer needed.
 - Simple, clean, and user-friendly interface.
-  
+
 ## Technologies Used
 - **React Native**: A framework for building mobile apps using JavaScript and React.
 - **JavaScript**: Programming language for the app's logic.
 - **React**: Library for building the user interface.
+
+## Demo Images
+![WhatsApp Image 2024-12-31 at 19 37 08_1c5b8c8c](https://github.com/user-attachments/assets/8113326b-c47f-4a16-b82f-a8b85e66cd64)
+![WhatsApp Image 2024-12-31 at 19 36 58_b0447335](https://github.com/user-attachments/assets/5b2a35ca-656e-4617-aec4-bfa3d4cbbdb3)
+![WhatsApp Image 2024-12-31 at 19 36 41_b2f667d7](https://github.com/user-attachments/assets/8e117a92-ae7d-4389-a877-fededbdadad1)
+![WhatsApp Image 2024-12-31 at 19 36 31_0dfb881e](https://github.com/user-attachments/assets/dead1ea6-7ae0-4e92-94ae-398186400c52)
 
 ## Installation
 
